@@ -1,0 +1,10 @@
+name: Sumo
+version: 1.0-SNAPSHOT
+main: com.gportals.sumo.Sumo
+api-version: 1.13
+authors: [gapidobri]
+description: A Minecraft sumo plugin
+commands:
+  sumo:
+    description: Command for plugin sumo.
+    usage: /<command> <args>

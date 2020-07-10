@@ -1,0 +1,16 @@
+arenas:
+  arena1:
+    1:
+      world: "world"
+      x: -1
+      y: 87
+      z: 94
+      yaw: -180
+      pitch: 0
+    2:
+      world: "world"
+      x: -1
+      y: 87
+      z: 88
+      yaw: 0
+      pitch: 0

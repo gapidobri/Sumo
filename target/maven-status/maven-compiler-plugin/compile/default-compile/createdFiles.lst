@@ -1,0 +1,6 @@
+com\gportals\sumo\Sumo.class
+com\gportals\sumo\models\SumoFight$1.class
+com\gportals\sumo\listeners\CommandListener.class
+com\gportals\sumo\listeners\TabCompleteListener.class
+com\gportals\sumo\models\SumoFight.class
+com\gportals\sumo\listeners\Listeners.class
